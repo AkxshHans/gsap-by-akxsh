@@ -1,0 +1,307 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body , html {
+width: 100%;
+height: 100%;
+background-color: #000;
+
+}
+
+#nav {
+    width: 100%;
+height: 100%;
+}
+
+#navpart1 {
+    color: white;
+    font-size: 27px;
+    font-family: cursive;
+    position: absolute;
+    top: 2%;
+    left: 2%;
+}
+#navpart1:hover{
+    font-size: 28px;
+    color: rgb(253, 253, 253);
+}
+#navpart2{
+    display: flex;
+    
+    color: aliceblue;
+    position: absolute;
+    top: 4%;
+    left: 43%;
+    gap: 40px;
+    
+}
+#navpart3{
+    display: flex;
+    position: absolute;
+    top: 4%;
+    left: 88%;
+    gap: 40px;
+    color: aliceblue;
+}
+button {
+    width: 60px;
+}
+
+#nav2 h1 {
+    color: aliceblue;
+    
+}
+#DISCIPLINE{
+    position: absolute;
+    top: 30%;
+    left: 27%;
+    font-size: 70px;
+}
+#EVERY{
+    position: absolute;
+    top: 40%;
+    left: 33%;
+    font-size: 70px;
+}
+#EASY{
+    position: absolute;
+    top: 50%;
+    left: 43%;
+    font-size: 70px;
+}
+#img1{
+    position: absolute;
+    top: 20%;
+    left: 3%;
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 40px;
+}
+#img1:hover{
+    width: 202px;
+    height: 303px;
+}
+
+#img2{
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 40px;
+}
+#img2:hover{
+    width: 202px;
+    height: 303px;
+}
+
+#DISCIPLINE:hover {
+    color: orangered
+}
+#EVERY:hover {
+    color:red
+}
+#EASY:hover {
+    color:orangered
+}
+i{
+    position: absolute;
+    top: 87%;
+    left: 48%;
+    color: white;
+    font-size: 50px;
+}
+i:hover{
+    color: rgb(243, 172, 172);
+    font-size: 53px;
+}
+#main{
+    width: 100%;
+    height: 100%;
+}
+#recentpro{
+    color: white;
+    margin: 20px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+}
+#recentpro:hover{
+   font-size: 30px;
+   color: aqua;
+}
+#imga{
+    position: absolute;
+    top: 120%;
+    left: 8%;
+    width: 200px;
+    height: 300px;
+    border-radius: 40px;
+    object-fit: cover;
+    cursor:e-resize;
+}
+#imga:hover{
+    width: 202px;
+    height: 303px;
+    border: 2px solid whitesmoke;
+}
+#imgb{
+    position: absolute;
+    top: 150%;
+    left: 30%;
+    width: 200px;
+    height: 300px;
+    border-radius: 40px;
+    object-fit: cover;
+    cursor:e-resize;
+}
+#imgb:hover{
+    width: 202px;
+    height: 303px;
+    border: 2px solid whitesmoke;
+}
+#imgc{
+    position: absolute;
+    top: 120%;
+    left: 52%;
+    width: 200px;
+    height: 300px;
+    border-radius: 40px;
+    object-fit: cover;
+    cursor:e-resize;
+}
+#imgc:hover{
+    width: 202px;
+    height: 303px;
+    border: 2px solid whitesmoke;
+}
+
+#imgd{
+    position: absolute;
+    top: 150%;
+    left: 75%;
+    width: 200px;
+    height: 300px;
+    border-radius: 40px;
+    object-fit: cover;
+    cursor:e-resize;
+}
+#imgd:hover{
+    width: 202px;
+    height: 303px;
+    border: 2px solid whitesmoke;
+}
+#About{
+    color: white;
+    position: absolute;
+    left: 16%;
+    top: 220%;
+}
+#mian2{
+    width: 100%;
+    height: 100%;
+}
+#imgx{
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+    position: absolute;
+    top: 235%;
+    left: 11%;
+    border-radius: 8%;
+    
+}
+#imgy {
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+    position: absolute;
+    top: 235%;
+    left: 21%;
+    border-radius: 8%;
+}
+#imgz{
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+    position: absolute;
+    top: 235%;
+    left: 31%;
+    border-radius: 8%;
+}
+#imgxz{
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+    position: absolute;
+    top: 235%;
+    left: 41%;
+    border-radius: 8%;
+}
+#imgxy{
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+    position: absolute;
+    top: 235%;
+    left: 51%;
+    border-radius: 8%;
+}
+#imgyy{
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+    position: absolute;
+    top: 235%;
+    left: 61%;
+    border-radius: 8%;
+}
+
+#imgyy:hover{
+    width: 304px;
+    height: 405px;
+}
+#imgx:hover{
+    width: 304px;
+    height: 405px;
+}
+#imgy:hover{
+    width: 304px;
+    height: 405px;
+}
+#imgz:hover{
+    width: 304px;
+    height: 405px;
+}
+#imgxz:hover{
+    width: 304px;
+    height: 405px;
+}
+#imgxy:hover{
+    width: 304px;
+    height: 405px;
+}
+#icon1{
+    font-size: 30px;
+    position: absolute;
+    top: 320%;
+
+}
+
+#icon2{
+    font-size: 30px;
+    position: absolute;
+    top: 320%;
+    left: 44%;
+    
+}
+#icon3{
+    font-size: 32px;
+    position: absolute;
+    top: 320%;
+    left: 52%;
+}
